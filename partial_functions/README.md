@@ -2,7 +2,7 @@
 
 `RUBY`
 
-```
+```ruby
 def add(a, b)
   a + b
 end
@@ -10,7 +10,7 @@ end
 
 `SCALA`
 
-```
+```scala
 def add(a: Int, b: Int) = a + b
 ```
 
