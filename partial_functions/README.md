@@ -18,7 +18,7 @@ def add(a: Int, b: Int) = a + b
 
 `RUBY`
 
-```
+```ruby
 [1] (pry) main: 0> def add(a, b)
 [1] (pry) main: 0*   a + b
 [1] (pry) main: 0* end
@@ -36,7 +36,7 @@ def add(a: Int, b: Int) = a + b
 
 `SCALA`
 
-```
+```scala
 scala> def add(a: Int, b: Int) = a + b
 add: (a: Int, b: Int)Int
 
