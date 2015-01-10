@@ -2,7 +2,7 @@
 
 `RUBY`
 
-```
+```ruby
 def get_random_element(array)
   array.sample
 end
@@ -10,7 +10,7 @@ end
 
 `SCALA`
 
-```
+```scala
 import scala.util.Random
 
 def getRandomElement[T](list: Seq[T]): T = list(Random nextInt list.length)
